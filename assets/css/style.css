@@ -108,7 +108,7 @@ header .container-header{
   height: 200px;
   position: absolute;
   top: 100%;
-  left: 68%;
+  right: 36%;
   background-color: white;
 }
 
@@ -126,7 +126,7 @@ header .container-header{
   height: 300px;
   position: absolute;
   top: 100%;
-  left: 73.5%;
+  right: 29%;
   background-color: white;
 }
 
@@ -149,7 +149,7 @@ header .container-header{
   height: 200px;
   position: absolute;
   top: 100%;
-  left: 80%;
+  right: 20%;
   background-color: white;
 }
 
